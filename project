@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: #ffffb3;}
+h1   {color: black;}
+p    {color: black;}
+body {
+  font-family: Garamond, serif;
+}
+#myHeader {
+  background-color: #e6ffe6;
+  color: black;
+  padding: 5px;
+  text-align: left;
+  
+
+</style>
+<title>project</title>
+</head>
+<body>
+<img src="https://media-exp1.licdn.com/dms/image/C5603AQFqB0Pn1Tvntw/profile-displayphoto-shrink_200_200/0/1618774597722?e=1626912000&v=beta&t=tpzM9YEV4hsZzv7n0l8XouCd1EggamrLHH-AvOQ1Qs0" alt="divya" width="200" height="200">
+<h4>Contact</h4>
+
+<p id="demo">@</p>
+
+<button type="button" onclick="document.getElementById('demo').innerHTML = 'Email id - divya.happydd73@gmail.com|Ph.no:07438015795|Github:divyadharmapuri30'">Click Me!</button>
+
+
+<h1><h1 id="myHeader">Hi</h1>
+<p style="font-size:25px;">I'm Divya Dharmapuri. Welcome to my Website!</p>
+<p>Driven Web Developer well versed in team collaboration to formulate and conceptualize corporate web presence. Speciality embracing challenging projects requiring detailed coding changes search engine-related considerations and security. Integrates knowledge of visual arts to develop functional, appealing, custom-made web products and services.</p>
+<h2>Experience</h2>
+<p style="font-size:25px;">Worked as a Junior Software Engineer</p>
+<p>People Tech Group - Hyderabad, India
+
+<p>Developed Android XML layouts for General Motors Car Dashboard Android Screens, Functionality development.</p>
+<p>Developed Graphic images and layouts for product illustrations, logos, images.</p>
+<p>Performed XML validations and Graphic layout comparisons (Image Processing) and responsive testing using android tabs.</p>
+
+<h2>Qualification & Skills</h2>
+<p>M.Sc.: Geo-informatics (Web content management, Internet tools, Compression formats, Graphic & GUI Design, Digital image processing, Web & Multimedia Development, Search Engine Optimization (SEO),System Security, Data analysis, Data storage, Google mapping (Digitizing maps),Business & Environmental study.)
+<p>Telangana, Nizamabad , India</p>
+<h3>Technical Skills</h3>
+<p>Web Tools: JavaScript, CSS, HTML, XHTML, XML, Bootstrap,Python, ASP.NET, C#, SQL, BitBucket, Github,Eclipse.
+Adobe Creative Cloud: Photoshop, Illustrator, InDesign.</p>
+
+</body>
+</html>
